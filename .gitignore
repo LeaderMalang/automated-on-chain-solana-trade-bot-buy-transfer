@@ -1,0 +1,6 @@
+env
+.vscode
+chromedriver.exe
+data.csv
+.env
+.pyc
